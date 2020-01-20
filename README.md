@@ -1,6 +1,6 @@
 # Projet_M36
 
-- Axelle Allegaert
-- Rocco Allegaert
-- Clément Allegaert Ezat
-- Thibault Allegaert
+- Axelle Malgahes
+- Rocco Pétrolo
+- Clément Delzenne
+- Thibault Renier
