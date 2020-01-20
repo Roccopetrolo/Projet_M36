@@ -1,6 +1,6 @@
 # Projet_M36
 
-- Axelle Malgahes
+- Axelle Malghaes
 - Rocco Pétrolo
 - Clément Delzenne
 - Thibault Renier
